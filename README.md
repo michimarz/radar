@@ -2,7 +2,7 @@
 
 ## CLI tools
 
-* taskwarrior - for TODOs
+* [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)- for TODOs
 
 ## Emacs
 
